@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" modified="2023-04-13T21:13:29.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6frrsbYccgy7r6t1Mdar" version="21.1.7" type="device">
+  <diagram id="S6yUZxny3z4UyAUJXcO7" name="Page-1">
+    <mxGraphModel dx="1434" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-29" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=7;fontColor=default;fillColor=default;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="240" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-30" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#FFCE9F;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-31" value="&lt;font style=&quot;&quot;&gt;John Wick&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;2014 | R | 1h41&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=#00000055;fillColor=#00000000;gradientDirection=south;fontStyle=1;fontColor=#FFFFFF;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-32" value="Action" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;arcSize=50;strokeColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="117" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-33" value="Crime" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;arcSize=50;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-34" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Open Sans, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took his car.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;spacingLeft=6;" parent="1" vertex="1">
+          <mxGeometry x="50" y="361" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-35" value="&lt;font color=&quot;#66cc00&quot;&gt;7.4&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;IMDb&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=18;gradientDirection=south;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="50" y="291" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-36" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;68&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Metascore" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=10;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="130" y="291" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-37" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;&lt;font color=&quot;#66cc00&quot;&gt;86%&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Rotten Tomatoes" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=10;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="210" y="291" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-38" value="Thriller" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;arcSize=50;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="223" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-39" value="CineCartaz" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=15;fillColor=#3399FF;gradientDirection=south;strokeColor=none;fontStyle=1;align=left;spacingLeft=8;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-42" value="Geral" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;fontColor=#3399FF;fillColor=default;gradientColor=none;gradientDirection=south;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-43" value="Visualização" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;fontColor=#999999;fillColor=default;gradientColor=none;gradientDirection=south;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U_F4BcIeG5w2woNQhTtS-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#3399FF;fontSize=12;fontColor=#3399FF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="40" y="276" width="120" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=7;fontColor=default;fillColor=default;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="240" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#FFCE9F;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-3" value="&lt;font style=&quot;&quot;&gt;John Wick&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;2014 | R | 1h41&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=#00000055;fillColor=#00000000;gradientDirection=south;fontStyle=1;fontColor=#FFFFFF;align=left;spacingLeft=8;" parent="1" vertex="1">
+          <mxGeometry x="400" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-4" value="Action" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;arcSize=50;strokeColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="477" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-5" value="Crime" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;arcSize=50;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="530" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-10" value="Thriller" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;arcSize=50;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="583" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-11" value="CineCartaz" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=15;fillColor=#3399FF;gradientDirection=south;strokeColor=none;fontStyle=1;align=left;spacingLeft=8;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-12" value="&lt;font color=&quot;#999999&quot;&gt;Geral&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;fontColor=#3399FF;fillColor=default;gradientColor=none;gradientDirection=south;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-13" value="&lt;font color=&quot;#3399ff&quot;&gt;Visualização&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;fontColor=#999999;fillColor=default;gradientColor=none;gradientDirection=south;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-14" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#3399FF;fontSize=12;fontColor=#3399FF;fillColor=#3399FF;gradientColor=none;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="520" y="276" width="120" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-15" value="Cinema NOS Colombo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="425" y="291" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-16" value="&lt;font color=&quot;#2b2b2b&quot; style=&quot;font-size: 10px;&quot;&gt;13 | 04 | 23&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="425" y="310" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#66FFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="465" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#66FFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="476" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#66FFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="487" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#66FFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="498" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#66FFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="509" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#66FFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=none;strokeColor=default;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="531" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=none;strokeColor=default;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="542" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=none;strokeColor=default;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="553" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="564" y="353" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9iWLjavp7cPTV06EsTlG-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;John Wick is an adrenaline-fueled action movie with superb fight scenes and stunning cinematography. Keanu Reeves delivers a memorable performance as the iconic hitman seeking revenge. Overall, it&#39;s a must-see for fans of the genre.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="370" width="190" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
