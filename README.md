@@ -16,8 +16,8 @@ Trabalho realizado por: **Filipe Parreiras | a21905158**
 <br>
 <div style="display: flex;">
   <div>Detalhe do filme:</div>
-  <img src="images/detail_general.png" alt="Detail general" height="400">
-  <img src="images/detail_visualization.png" alt="Detail visualization" height="400">
+  <img src="Images/detail_general.png" alt="Detail general" height="400">
+  <img src="Images/detail_visualization.png" alt="Detail visualization" height="400">
 </div>
 <br>
 <div style="position: relative;">
