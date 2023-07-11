@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#0CBABA</color>
+
+    <!-- Main -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Text -->
+    <color name="trasparent">#0000FFFF</color>
+    <color name="grayText">#808080</color>
+    <color name="white">#F2F2F2</color>
+    <color name="lightGray">#BFBFBF</color>
+
+    <!-- Background -->
+    <color name="boxBackground">#262626</color>
+
+
+    <!-- Other -->
+    <color name="excellent">#5C995C</color>
+    <color name="good">#84C384</color>
+    <color name="medium">#D7A23E</color>
+    <color name="bad">#A24D4D</color>
+    <color name="very_bad">#726B80</color>
+
+</resources>

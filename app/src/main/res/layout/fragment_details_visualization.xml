@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.DetailActivity"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="20dp"
+        android:layout_marginHorizontal="15dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:paddingTop="15dp"
+            android:id="@+id/nome_cinema"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/grayText"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/morada"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginHorizontal="15dp"
+                android:textColor="@color/colorPrimary"/>
+            <TextView
+                android:id="@+id/codigo_postal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginHorizontal="15dp"
+                android:textColor="@color/colorPrimary"/>
+            <TextView
+                android:id="@+id/localidade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginHorizontal="15dp"
+                android:textColor="@color/colorPrimary"/>
+        </LinearLayout>
+
+
+        <SeekBar
+            android:id="@+id/avaliacao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="50sp"
+            android:layout_marginHorizontal="30sp"
+            android:max="10"
+            android:thumbTint="@color/colorPrimary"
+            android:progressTint="@color/colorPrimary"
+            />
+
+        <TextView
+            android:id="@+id/classificacao_etaria"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginHorizontal="15dp"
+            android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/comentarios"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginHorizontal="15dp"
+            android:textColor="@color/grayText"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/fotos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:nestedScrollingEnabled="true"/>
+
+
+    </LinearLayout>
+</ScrollView>

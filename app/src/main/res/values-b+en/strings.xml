@@ -1,0 +1,24 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Cinecartaz</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="apresentacao">Presentation</string>
+    <string name="adicionar">Add</string>
+    <string name="avaliacao">Evaluation:</string>
+    <string name="imagens_do_filme">Images from the movie.</string>
+    <string name="geral">General</string>
+    <string name="visualizacao">Visualization</string>
+    <string name="ver_mais">View More…</string>
+    <string name="ver_menos">View Less…</string>
+    <string name="submeter">Submit</string>
+    <string name="filmes_vistos">Total movies seen</string>
+    <string name="cinemas_visitados">Total theaters visited</string>
+    <string name="cinema_mais_visitado">Most Visited Cinema</string>
+    <string name="genero_mais_visto">Most watched genre</string>
+    <string name="total_de_avaliacoes">Total ratings:</string>
+    <string name="filme">Movie</string>
+    <string name="cinema">Cinema</string>
+    <string name="data">Date</string>
+    <string name="observacao">Note</string>
+</resources>
