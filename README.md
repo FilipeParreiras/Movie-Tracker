@@ -6,23 +6,23 @@ Trabalho realizado por: **Filipe Parreiras | a21905158**
 
 <div style="position: relative;">
   <div>Dashboard:</div>
-  <img src="images/dashboard.png" alt="Dashboard" height="400">
+  <img src="Images/dashboard.png" alt="Dashboard" height="400">
 </div>
 <br>
 <div style="position: relative;">
   <div>Apresentação dos filmes:</div>
-  <img src="images/list.png" alt="Dashboard" height="400">
+  <img src="Images/list.png" alt="Dashboard" height="400">
 </div>
 <br>
 <div style="display: flex;">
   <div>Detalhe do filme:</div>
-  <img src="images/detail_general.png" alt="Detail general" height="400">
-  <img src="images/detail_visualization.png" alt="Detail visualization" height="400">
+  <img src="Images/detail_general.png" alt="Detail general" height="400">
+  <img src="Images/detail_visualization.png" alt="Detail visualization" height="400">
 </div>
 <br>
 <div style="position: relative;">
   <div>Registo de filmes:</div>
-  <img src="images/create.png" alt="Create" height="400">
+  <img src="Images/create.png" alt="Create" height="400">
 </div>
 
 
